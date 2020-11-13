@@ -1,0 +1,7 @@
+ro.display.series=Xperia 10 II
+ro.product.board=trinket
+ro.board.platform=trinket
+vendor.gatekeeper.disable_spu=true
+ro.boot.dynamic_partitions=true
+ro.adb.secure=0
+fbe.metadata.wrappedkey=true
